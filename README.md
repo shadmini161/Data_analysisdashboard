@@ -51,9 +51,12 @@ Marketing Effectiveness – Evaluating the impact of promotions and campaigns on
 20. What are the major cost components affecting profitability?
 21. How do operational costs impact overall revenue andi profit?
 ## Power BI Features Used in the Dashboard:
-Data Cleaning & Transformation: Power Query
-Data Modeling: Relationships between tables for better insights
-Interactive Visualizations: Bar charts, pie charts, maps, line graphs, and KPIs
+Data Cleaning & Transformation: Power Query.
+
+Data Modeling: Relationships between tables for better insights.
+
+Interactive Visualizations: Bar charts, pie charts, maps, line graphs, and KPIs.
+
 DAX Measures & Calculations: Custom calculations for total sales, profit margins, etc.
 
 
