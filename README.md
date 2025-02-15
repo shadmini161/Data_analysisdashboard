@@ -9,6 +9,9 @@ This project aims to create an interactive E-Commerce Sales Dashboard in Power B
 5. Order and Shipping Insights – Monitor order fulfillment, delivery times, and customer satisfaction.
 6. Profitability Analysis – Identify high-profit margin products and cost-heavy areas.
 7. Predictive Insights – Forecast future sales trends using historical data.
+## DASHBOARD:
+![Uploading Screenshot 2025-02-15 212147.png…]()
+
 ## Project Insights:
 
 The Power BI dashboard will provide valuable insights, including:
